@@ -1,5 +1,5 @@
 # brownian-motion-candlestick-price-simulator
-# 📈 Reflected Geometric Brownian Motion (RGBM) Price Sequence Generator
+## 📈 Reflected Geometric Brownian Motion (RGBM) Price Sequence Generator
 
 This simple code simulates intra-candle price movements for an asset based on provided OHLC (Open, High, Low, Close) prices using a **Reflected Geometric Brownian Motion (RGBM)** approach.
 
